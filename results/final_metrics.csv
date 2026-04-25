@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+LSTM Baseline,0.7067,0.635,0.671,0.6525,0.7836
+Bi-LSTM,0.9602,0.9953,0.9072,0.9492,0.995
+Transformer,0.9205,0.9415,0.8598,0.8988,0.9853
