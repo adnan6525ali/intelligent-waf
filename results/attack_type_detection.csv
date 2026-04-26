@@ -1,0 +1,7 @@
+Attack Type,ModSecurity (%),Bi-LSTM (%)
+SQL Injection,85,96
+XSS,80,93
+Path Traversal,75,91
+CSRF,45,88
+Buffer Overflow,60,85
+Parameter Tampering,55,94
